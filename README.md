@@ -1,5 +1,7 @@
 # Bad Microphone
 
+![Basic example](./img.png)
+
 Learning the basics of PortAudio, made this simple CLI tool to hear your microphone at a 4200hz sample rate, and record a file (it is exported to 'upsampled_audio.wav' in the current directory)
 
 ## Libraries Used:
